@@ -1,4 +1,3 @@
-<center>Hello, I'm data scientist Lim Eunjae.</center>
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelim&show_icons=true&theme=radical)
 
