@@ -1,4 +1,28 @@
 
+## 내 웹사이트 👏 
+###     Hi there
+---
+## 🌟 About Myself 🌟
+- name : limeunjae
+- Favorites : reading 📙 
+- email : imeunjae361@gmail.com
+---
+
+## Tech stacks
+ 
+- HTML
+- javascript
+- CSS
+- NodeJs
+- Linux
+  
+## Achievements
+|프로젝트명|기술스택|
+|---|---|
+|홈페이지 꾸미기|html
+|게임만들기|javascript|
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelim&show_icons=true&theme=radical)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -46,3 +70,4 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
