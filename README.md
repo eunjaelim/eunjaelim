@@ -5,7 +5,7 @@
 ## 🌟 About Myself 🌟
 - name : limeunjae
 - Favorites : reading 📙 travel ✈️
-- email : imeunjae361@gmail.com
+- email : imeunjae361@gmail.com / kljj8604@naver.com
 ---
 
 ## Tech stacks
