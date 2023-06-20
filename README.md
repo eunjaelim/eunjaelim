@@ -4,7 +4,7 @@
 ---
 ## 🌟 About Myself 🌟
 - name : limeunjae
-- Favorites : reading 📙 
+- Favorites : reading 📙 travel ✈️
 - email : imeunjae361@gmail.com
 ---
 
