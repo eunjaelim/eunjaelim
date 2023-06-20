@@ -1,4 +1,7 @@
+내 웹사이트 👏 
+Hi there
 
+##🌟 About Myself 🌟
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelim&show_icons=true&theme=radical)
 
 <div align=center><h1>📚 STACKS</h1></div>
