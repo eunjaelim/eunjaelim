@@ -19,11 +19,12 @@
 -  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   
 ## Achievements
-|프로젝트명|기술스택|URL|
-|---|---|
-|홈페이지 꾸미기|html|none|
-|게임만들기|javascript|none|
-|이미지 배경제거와 글자추출 자동화 웹서비스|python|https://image-webservice.streamlit.app/|
+| 프로젝트명                                        | 기술스택      | URL                                        |
+|---------------------------------------------------|---------------|--------------------------------------------|
+| 홈페이지 꾸미기                                  | html          | none                                       |
+| 게임만들기                                      | javascript    | none                                       |
+| 이미지 배경제거와 글자추출 자동화 웹서비스   | python        | [https://image-webservice.streamlit.app/](https://image-webservice.streamlit.app/) |
+
 
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjaelim&show_icons=true&theme=radical)
 
