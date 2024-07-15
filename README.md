@@ -6,6 +6,7 @@
 - name : limeunjae
 - Favorites : reading 📙 travel ✈️
 - email : imeunjae361@gmail.com / kljj8604@naver.com
+- blog : https://blog.naver.com/kljj8604
 ---
 
 ## Tech stacks
@@ -21,9 +22,8 @@
 ## Achievements
 | 프로젝트명                                        | 기술스택      | URL                                        |
 |---------------------------------------------------|---------------|--------------------------------------------|
-| 홈페이지 꾸미기                                  | html          | none                                       |
-| 게임만들기                                      | javascript    | none                                       |
-| 이미지 배경제거와 글자추출 자동화 웹서비스   | python        | [https://image-webservice.streamlit.app/](https://image-webservice.streamlit.app/) |
+|none                                               | html          | none                                       |
+
 
 
 
