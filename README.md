@@ -6,7 +6,7 @@
 - name : limeunjae
 - Favorites : reading 📙 travel ✈️
 - email : imeunjae361@gmail.com / kljj8604@naver.com
-- blog : [https://blog.naver.com/kljj8604](https://blog.naver.com/eunjaelim_/223513785372)
+- blog : https://blog.naver.com/eunjaelim_
 ---
 
 ## Tech stacks
